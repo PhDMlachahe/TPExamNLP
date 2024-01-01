@@ -6,3 +6,7 @@ pandas
 tqdm
 plotly
 lazypredict
+spacy
+lime
+shap
+joblib
